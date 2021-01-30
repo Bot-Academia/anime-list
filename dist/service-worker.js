@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e58119692113295653d3ff53bd43859c.js"
+  "/precache-manifest.d677660be034363cbf1747cd7daa82b7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "animeapp"});
